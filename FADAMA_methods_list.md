@@ -4,7 +4,7 @@ This is a list of methods currently available in FADAMA. Please see individual m
 
 <div align="text-align: right"> *Last Updated: 2020-04-04* </div>
 
-# [**Sex**] (#Sex)
+# [**Sex**](#Sex)
 - [Albanese et al. 2008](#Albanese)
 - [Acsadi and Nemeskeri 1970](#AandN)
 - [Bass 2005](#Bass)
@@ -108,8 +108,8 @@ This is a list of methods currently available in FADAMA. Please see individual m
 - [Trotter and Glesser 1952](#Trotter1952)
 - [Trotter and Glesser 1958](#Trotter1958)
 
-## **SEX** <a name="Sex"> </a>
-### Albanese J, Eklics G, Tuck A (2008) <a name="Albanese"></a>
+## **SEX**<a name="Sex"> </a>
+### Albanese J, Eklics G, Tuck A (2008)<a name="Albanese"></a>
 A metric method for sex determination using the proximal femur and fragmentary hipbone. *Journal of forensic sciences* 53(6): 1283-1288.
 
 - **Summary:** Using measurements and angles from the proximal femur and the pelvis to calculate the probability of being male or female. This method was designed for fragmentary bones.
