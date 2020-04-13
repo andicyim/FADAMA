@@ -18,8 +18,8 @@
 - [Slice and Ross 2009](#3DID1)
 - [Tise 2010](#Tise_thesis)
 - [Tise et al. 2013](#Tise)
-- [Walker PL 2005](#Walker2005)
-- [Walker PL 2008](#Walker2008)
+- [Walker 2005](#Walker2005)
+- [Walker 2008](#Walker2008)
 
 # [**Age**](#Age)
 - [Albert and Maples 1995](#AandM)
