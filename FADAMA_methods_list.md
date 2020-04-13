@@ -1,10 +1,5 @@
----
-title: '**FADAMA Methods List**'
-output:
-  html_document:
-    theme: lumen
----
-  
+# **FADAMA Methods List**
+
 This is a list of methods currently available in FADAMA. Please see individual method description for more details. This list will be updated as new methods are added to FADAMA.
 <div style="text-align: right"> *Last Updated: 2020-04-04* </div>
 
