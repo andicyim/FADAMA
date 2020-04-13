@@ -1,3 +1,7 @@
+# FADAMA Methods List
+
+This is a list of methods currently available in FADAMA. Please see individual method description for more details. This list will be updated as new methods are added to FADAMA.
+
 *Last Updated: 2020-04-04*
 
 # [**Sex**](#Sex)
