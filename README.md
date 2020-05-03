@@ -15,7 +15,7 @@
 - [Rogers et al. 2000](#Rogers2000)
 - [Spradley and Jantz 2011](#SandJ)
 - [Spradley et al. 2015](#Spradley)
-- [Slice and Ross 2009](#3DID1)
+- [Slice and Ross 2009 (3D-ID)](#3DID1)
 - [Tise 2010](#Tise_thesis)
 - [Tise et al. 2013](#Tise)
 - [Walker 2005](#Walker2005)
@@ -86,7 +86,7 @@
 - [Jantz and Ousley 2005 (FORDISC)](#FORDISC2)
 - [Kenyhercz et al. 2017](#Kenyhercz)
 - [Rhine 1990](#Rhine)
-- [Slice and Ross 2009](#3DID2)
+- [Slice and Ross 2009 (3D-ID)](#3DID2)
 
 # [**Stature**](#Stature)
 - [Fully 1956](#Fully)
@@ -171,7 +171,7 @@ The rhomboid fossa of the clavicle as a sex and age estimator. *Journal of Foren
 
 * **Summary:**  Sex estimation based on clavicle morphology, specifically, the presence or absence of the rhomboid fossa, which is a pitted or depressed marking on the inferior sternal end of the clavicle.
 
-### Slice DE, and Ross AH (2009)<a name="3DID"></a> 
+### Slice DE, and Ross AH (2009)<a name="3DID1"></a> 
 3D--ID: geometric morphometric classification of crania for forensic scientists. *US Department of Justice Report. Document*, (2005-MU).
 
 - **Summary:** A geometric morphometric approach to estimate sex from the cranium.
