@@ -1,1 +1,1 @@
-
+# Folder for Wiki resources
